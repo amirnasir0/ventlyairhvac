@@ -1,0 +1,1414 @@
+
+i want you to analyse these landing pages
+
+https://suburban-hvac.com/residential/heating/installation/
+
+https://nicholson-hvac.com/ready/hvac/
+
+https://www.gandcplumbing.com/heating/furnaces/
+
+we have to make a landing page for ventlyair hvac for keyword hvac companies near me. the goal is to build a super responsive mobile friendly landing page with highest conversion from google adwords on keywords such as hvac companies near me. ask if you have quesstions.
+
+Show more
+4:37 PM
+
+Thinking about analyzing competitor HVAC landing pages and designing high-converting mobile-optimized pages for local search keywords
+Thinking about analyzing competitor HVAC landing pages and designing high-converting mobile-optimized pages for local search keywords
+Let me fetch and analyze all three landing pages first!
+
+
+Absorbed competitor landing pages and project requirements
+Absorbed competitor landing pages and project requirements
+Great, I've analyzed all three pages thoroughly. Here's my quick breakdown before we dive in:
+
+Suburban HVAC — full website masquerading as a landing page. Heavy nav, buried sidebar form, great trust signals (BBB, NATE, since 1965) but terrible for PPC — too many exit points.
+
+Nicholson HVAC — closest to a proper PPC landing page. Big bold offer ($2,000 upgrades), minimal nav, repeated CTAs, membership upsell, social proof baked in. Best conversion structure of the three.
+
+G&C Plumbing — great local trust signals (4.9 stars, 1,600+ reviews, named techs in reviews, community involvement) but it's a full website page, not a landing page. Too long, too many links.
+
+What I'd take from each + improve:
+
+Nicholson's offer-first hero + no nav structure ✅
+G&C's real review credibility + guarantees ✅
+Suburban's trust badge strip + FAQ section ✅
+Fix for all: sticky mobile CTA bar, faster form, no distracting nav, urgency signals
+Before I build, I need a few details:
+
+While you answer those, also let me know in the chat:
+
+VentlyAir's brand colors (or I'll pick a strong professional palette)
+Any certifications (NATE, BBB, licensed & insured, years in business, review count)
+Services to highlight (AC, heating, install, repair, maintenance — all of the above?)
+Any existing promos running right now
+The more detail you give me, the sharper and more conversion-optimized the page will be!
+
+Q: What city/region does VentlyAir serve? (This will be woven into headlines and trust copy)
+A: Skip for now - use placeholder
+
+Q: What's the primary conversion goal from the ad click?
+A: Both phone + form
+
+Q: What offer or hook should anchor the hero section?
+A: Free estimate / quote
+
+4:39 PM
+
+Reviewed design fundamentals before constructing landing page
+Reviewed design fundamentals before constructing landing page
+Let me read the design skill first before building!
+
+
+Architected high-converting HVAC landing page with dual CTAs and trust signals
+Architected high-converting HVAC landing page with dual CTAs and trust signals
+
+Reading frontend design skill
+Now let me build an exceptional, high-converting HVAC landing page for VentlyAir.
+
+Key conversion design decisions:
+
+No navigation - pure landing page, no exits
+Sticky mobile CTA - phone number always visible
+Hero - immediate above-fold form + phone CTA
+Social proof - star ratings, review count, trust badges
+Offer - Free estimate / quote front and center
+Both CTAs - phone (primary on mobile) + form
+Urgency - same-day service availability
+Services grid - quick visual scan
+Trust signals - licensed, insured, NATE, years in business
+FAQ section - to handle common objections
+Sticky bottom bar on mobile - keeps CTAs accessible
+I'm going for a bold, modern industrial look with deep navy and slate tones punctuated by electric orange accents—premium and trustworthy but with real energy. Most HVAC sites are either bland corporate or generic, so I want this to stand out as the clear local leader. I'll pair Barlow Condensed for headlines with DM Sans for body text to nail that industrial-yet-clean aesthetic.
+
+Now I'm locking in the color palette and building out the full single-file HTML structure with all the key sections: sticky header with logo and phone, hero with dual CTAs, trust badges, service grid, estimate form, trust pillars, and reviews section.
+
+Building the complete page layout...
+
+Show more
+Done
+Now let me build this. Going with a bold industrial-premium direction — deep navy + electric orange, condensed display type, strong visual hierarchy. No nav, no exits, conversion-focused throughout.
+
+
+Created a file, read a file
+Created a file, read a file
+Here's your VentlyAir landing page. Here's a breakdown of every conversion decision made:
+
+Structural decisions (from competitor analysis):
+
+Zero navigation — unlike Suburban and G&C, there are no escape routes. Every scroll leads to a CTA.
+Dual conversion paths — hero form and click-to-call in the header, both visible above the fold, because mobile users call and desktop users form-fill.
+Sticky mobile bottom bar — always-visible call + estimate buttons, since 70%+ of "near me" traffic is on mobile.
+Hero section:
+
+Live availability pulse dot signals urgency and local presence
+Headline directly mirrors the search query intent ("The HVAC Company Near You")
+The form is right there above the fold — no scrolling required to convert
+Trust architecture:
+
+Animated ticker reinforces credentials constantly as you scroll
+Stats bar (4.9 stars, 1,200+ reviews, 15 years, 24/7) replicates what G&C does well with real social proof
+Named, verified reviews with avatars feel human — not generic
+Other CRO features:
+
+Scroll-triggered fade-in animations keep engagement high without being distracting
+FAQ handles the 6 most common objections before the prospect can bounce
+Success screen after form submit confirms action and reinforces the "15 min callback" promise
+What to swap in with your real info: phone number, city/region, years in business, review count, certifications, and any active promo offer.
+
+Ventlyair landing
+Code · HTML 
+Vently_color-e1629675666202.png
+the brand logo is attached, the website should be made accoridnly. the website is https://ventlyair.com/
+
+4:46 PM
+
+Gathered VentlyAir brand details from website
+Gathered VentlyAir brand details from website
+Let me fetch the VentlyAir website to pull their real info, colors, and services!
+
+
+Extracted brand assets and architected premium landing page design
+Extracted brand assets and architected premium landing page design
+Got everything I need. Real phone, real services, real reviews, real stats, real locations. Now rebuilding with their exact brand — deep navy + cyan from the logo swoosh.
+
+
+Created a file, read a file
+Created a file, read a file
+Here's the fully rebranded VentlyAir landing page. Everything is now pulled directly from their real brand and website:
+
+Brand alignment:
+
+Exact navy (
+#0F2645) and cyan (
+#29ABE2) from the logo swoosh, used consistently throughout
+Real Vently Air logo loaded from their CDN in both header and footer
+Real phone number (1-781-819-0399), real email, real services, real stats (20,000+ clients, 10+ years, 5+ states, 50,000+ projects)
+Real customer reviews (Cassandra, Joe D., Casey V.) verbatim from their website
+Real services in the form & service cards: Air Duct Cleaning · Furnace/Coil/Blower Fan · Dryer Vent · Chimney Cleaning · Sanitation · UV Light · Air Quality Test
+
+Locations section shows all 5 active states (MA, CT, DC, NC, TX) — matching their actual coverage map.
+
+What to update before going live:
+
+Wire up the form submissions to your actual CRM or lead capture backend
+Swap the placeholder Zoom Quote button to https://ventlyair.com/zoom-meeting/
+Add Google Tag Manager / conversion tracking pixels for the AdWords campaign
+Consider adding a "Get Instant Online Estimate" CTA linking to https://ventlyair.com/estimate/
+Ventlyair landing v2
+Code · HTML 
+update the logo witht he one i gave you
+
+4:51 PM
+
+Encoded and integrated the provided logo into HTML
+Encoded and integrated the provided logo into HTML
+Got it. Now swapping both logo instances with the embedded base64 version.
+
+
+Replace CDN logo URLs with base64 embedded logo
+Replace CDN logo URLs with base64 embedded logo
+Both logo instances replaced. Let me present the updated file:
+
+
+Presented file
+Presented file
+Done! Both logo placements — the sticky header and the footer — are now using your uploaded logo file directly, embedded into the HTML so it works completely standalone without needing any external URL.
+
+Ventlyair landing v2
+Code · HTML 
+the logo bg color should be similar to header bg color
+
+4:52 PM
+
+Deliberated blend modes to harmonize logo and header backgrounds
+Deliberated blend modes to harmonize logo and header backgrounds
+The logo PNG has a black background. The fix is to apply mix-blend-mode: screen to the logo <img> — this makes black pixels invisible, letting the header's dark navy show through seamlessly.
+
+
+Edited 3 files, ran a command, read a file
+Edited 3 files, ran a command, read a file
+Done! mix-blend-mode: screen makes black pixels in the PNG fully transparent, so the logo now sits flush with the dark navy header and footer backgrounds — no black box visible anywhere.
+
+Ventlyair landing v2
+Code · HTML 
+how do i upload it to my github
+
+4:52 PM
+
+Devised straightforward GitHub upload instructions
+Devised straightforward GitHub upload instructions
+Here are the two ways to do it:
+
+Option 1 — GitHub Website (easiest, no setup needed)
+
+Go to github.com and sign in (or create a free account)
+Click the "+" icon top right → "New repository"
+Name it (e.g. ventlyair-landing) → click "Create repository"
+On the next screen click "uploading an existing file"
+Drag and drop your ventlyair-landing-v2.html file
+Scroll down → click "Commit changes"
+Your file is now live on GitHub. To turn it into a live website for free:
+
+Go to your repo → Settings → Pages
+Under "Branch" select main → click Save
+Your page will be live at https://yourusername.github.io/ventlyair-landing/ventlyair-landing-v2.html within ~1 minute
+Option 2 — Command Line (if you have Git installed)
+
+bash
+# 1. Create a folder and move your file there
+mkdir ventlyair-landing
+cp ventlyair-landing-v2.html ventlyair-landing/index.html
+cd ventlyair-landing
+
+# 2. Initialize git and push
+git init
+git add .
+git commit -m "Add VentlyAir landing page"
+git branch -M main
+git remote add origin https://github.com/YOURUSERNAME/ventlyair-landing.git
+git push -u origin main
+My recommendation: Use Option 1 for simplicity, and rename the file to index.html before uploading — that way GitHub Pages serves it automatically at the root URL without the filename in the address bar.
+
+chimney.jpg
+duct-cleaning.jpg
+furnance.jpg
+sanitation.jpg
+i have given you 4 photos, can you add our services section where we mention we do duct cleaning, chimeny cleaning, furnance cleaning and sanitation
+
+4:57 PM
+
+Mapped service photos to base64 encoding and redesigned section
+Mapped service photos to base64 encoding and redesigned section
+Let me encode all 4 images and rebuild the services section with real photo cards.
+
+
+Assessed image sizes and prepared service section integration
+Assessed image sizes and prepared service section integration
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+Ventlyair landing v2 · HTML
+Copy
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vently Air | #1 HVAC Companies Near You | Free Estimate</title>
+<meta name="description" content="Vently Air is a top-rated HVAC & air quality company near you. Duct cleaning, furnace service, dryer vent & more. 20,000+ happy clients. Free estimate today.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Sora:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --navy:       #0F2645;
+  --navy-mid:   #162F52;
+  --navy-light: #1D3D66;
+  --navy-deep:  #091929;
+  --cyan:       #29ABE2;
+  --cyan-light: #4DBFF0;
+  --cyan-glow:  rgba(41,171,226,0.15);
+  --cyan-faint: rgba(41,171,226,0.07);
+  --white:      #FFFFFF;
+  --off-white:  #F4F8FC;
+  --gray-100:   #E8EFF7;
+  --gray-400:   #8BA3C0;
+  --gray-600:   #4A6785;
+  --gold:       #F5A623;
+  --green:      #22C55E;
+  --text-dark:  #0A1E35;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background: var(--white);
+  color: var(--text-dark);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── ANIMATIONS ─────────────────────────────── */
+@keyframes fadeUp   { from { opacity:0; transform:translateY(28px) } to { opacity:1; transform:translateY(0) } }
+@keyframes fadeIn   { from { opacity:0 } to { opacity:1 } }
+@keyframes pulse    { 0%,100%{transform:scale(1);opacity:.6} 70%{transform:scale(1.6);opacity:0} }
+@keyframes ticker   { 0%{transform:translateX(0)} 100%{transform:translateX(-50%)} }
+@keyframes breathe  { 0%,100%{opacity:.6;transform:scale(1)} 50%{opacity:1;transform:scale(1.03)} }
+@keyframes ripple   { 0%{box-shadow:0 0 0 0 rgba(41,171,226,.4)} 100%{box-shadow:0 0 0 18px rgba(41,171,226,0)} }
+@keyframes float    { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-7px)} }
+@keyframes spin-slow{ from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+
+/* ── STICKY HEADER ───────────────────────────── */
+.hdr {
+  position: fixed; top:0; left:0; right:0; z-index:200;
+  background: rgba(9,25,41,0.97);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(41,171,226,0.18);
+  padding: 0 24px;
+  height: 64px;
+  display: flex; align-items: center; justify-content: space-between;
+  animation: fadeIn .4s ease;
+}
+.hdr-logo {
+  display: flex; align-items: center; gap: 10px;
+  text-decoration: none;
+}
+.hdr-logo img { height: 34px; width: auto; mix-blend-mode: screen; }
+.hdr-logo-tag {
+  font-size: 11px; font-weight: 700; color: var(--cyan);
+  letter-spacing: 1.5px; text-transform: uppercase;
+  border-left: 1px solid rgba(41,171,226,.3);
+  padding-left: 10px; margin-left: 2px;
+  display: none;
+}
+.hdr-right { display: flex; align-items: center; gap: 14px; }
+.hdr-rating {
+  display: flex; align-items: center; gap: 6px;
+  font-size: 13px; color: var(--gray-400);
+  white-space: nowrap;
+}
+.hdr-stars { color: var(--gold); font-size: 12px; letter-spacing: 1px; }
+.hdr-phone {
+  display: flex; align-items: center; gap: 8px;
+  background: var(--cyan); color: white;
+  padding: 9px 18px; border-radius: 7px;
+  font-weight: 700; font-size: 15px;
+  text-decoration: none; transition: all .2s;
+  white-space: nowrap;
+}
+.hdr-phone:hover { background: var(--cyan-light); transform: translateY(-1px); }
+.hdr-phone svg { width:16px; height:16px; fill:white; flex-shrink:0; }
+
+/* ── HERO ─────────────────────────────────────── */
+.hero {
+  min-height: 100vh; padding-top: 64px;
+  background: var(--navy-deep);
+  position: relative; overflow: hidden;
+  display: flex; align-items: center;
+}
+/* animated mesh background */
+.hero-mesh {
+  position: absolute; inset: 0; pointer-events: none;
+  background:
+    radial-gradient(ellipse 90% 70% at 65% 35%, rgba(41,171,226,0.14) 0%, transparent 55%),
+    radial-gradient(ellipse 50% 50% at 10% 80%, rgba(15,38,69,0.7) 0%, transparent 60%),
+    radial-gradient(ellipse 40% 60% at 90% 80%, rgba(41,171,226,0.05) 0%, transparent 50%),
+    linear-gradient(155deg, #091929 0%, #0F2645 40%, #081520 100%);
+}
+/* subtle grid */
+.hero-grid {
+  position:absolute; inset:0; pointer-events:none;
+  background-image:
+    linear-gradient(rgba(41,171,226,0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(41,171,226,0.05) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+/* floating orb */
+.hero-orb {
+  position:absolute; right: -80px; top: 10%;
+  width: 520px; height: 520px; border-radius: 50%;
+  border: 1px solid rgba(41,171,226,0.1);
+  animation: breathe 6s ease infinite;
+  pointer-events: none;
+}
+.hero-orb::before {
+  content:''; position:absolute; inset: 40px; border-radius:50%;
+  border: 1px solid rgba(41,171,226,0.08);
+}
+.hero-orb::after {
+  content:''; position:absolute; inset: 80px; border-radius:50%;
+  border: 1px solid rgba(41,171,226,0.06);
+}
+
+.hero-inner {
+  position:relative; z-index:2;
+  max-width: 1200px; margin: 0 auto;
+  padding: 60px 24px 80px;
+  display: grid;
+  grid-template-columns: 1fr 420px;
+  gap: 56px; align-items: center;
+  width: 100%;
+}
+
+/* left */
+.hero-left { animation: fadeUp .7s ease both; }
+.hero-badge {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: rgba(41,171,226,0.1);
+  border: 1px solid rgba(41,171,226,0.25);
+  border-radius: 100px; padding: 6px 16px;
+  font-size: 12px; font-weight: 700; color: var(--cyan);
+  letter-spacing: 1.5px; text-transform: uppercase;
+  margin-bottom: 22px;
+}
+.live-dot {
+  width: 7px; height: 7px; background: var(--green); border-radius: 50%;
+  position: relative;
+}
+.live-dot::after {
+  content:''; position:absolute; inset:-3px; border-radius:50%;
+  border: 2px solid var(--green); animation: pulse 2s ease infinite;
+}
+.hero-h1 {
+  font-family: 'Sora', sans-serif; font-weight: 800;
+  font-size: clamp(44px, 5.5vw, 74px);
+  line-height: 1.07; letter-spacing: -1.5px;
+  color: var(--white); margin-bottom: 22px;
+}
+.hero-h1 .accent { color: var(--cyan); }
+.hero-h1 .ghost {
+  -webkit-text-stroke: 1.5px rgba(41,171,226,0.35);
+  color: transparent;
+}
+.hero-sub {
+  font-size: 18px; line-height: 1.7;
+  color: rgba(255,255,255,0.62); font-weight: 300;
+  max-width: 480px; margin-bottom: 32px;
+}
+.hero-sub strong { color: var(--white); font-weight: 600; }
+.hero-chips {
+  display: flex; flex-wrap: wrap; gap: 9px; margin-bottom: 36px;
+}
+.chip {
+  display: flex; align-items: center; gap: 6px;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 100px; padding: 6px 14px;
+  font-size: 13px; font-weight: 500; color: rgba(255,255,255,0.8);
+}
+.hero-ctas { display: flex; gap: 12px; flex-wrap: wrap; }
+.btn-cyan {
+  display: inline-flex; align-items: center; gap: 9px;
+  background: var(--cyan); color: white;
+  padding: 15px 30px; border-radius: 9px;
+  font-weight: 700; font-size: 16px; text-decoration: none;
+  border: none; cursor: pointer;
+  transition: all .25s; white-space: nowrap;
+  animation: ripple 2.5s ease infinite;
+}
+.btn-cyan:hover { background: var(--cyan-light); transform: translateY(-2px); box-shadow: 0 10px 30px rgba(41,171,226,0.35); }
+.btn-ghost {
+  display: inline-flex; align-items: center; gap: 9px;
+  background: transparent; color: white;
+  padding: 15px 28px; border-radius: 9px;
+  font-weight: 600; font-size: 16px; text-decoration: none;
+  border: 1.5px solid rgba(255,255,255,0.2);
+  cursor: pointer; transition: all .25s; white-space: nowrap;
+}
+.btn-ghost:hover { border-color: var(--cyan); color: var(--cyan); transform: translateY(-2px); }
+
+/* ── HERO FORM ───────────────────────────────── */
+.hero-card {
+  background: white; border-radius: 18px; overflow: hidden;
+  box-shadow: 0 32px 80px rgba(0,0,0,.45), 0 0 0 1px rgba(255,255,255,.04);
+  animation: fadeUp .85s .18s ease both;
+}
+.card-head {
+  background: linear-gradient(135deg, var(--navy) 0%, var(--navy-light) 100%);
+  border-bottom: 3px solid var(--cyan);
+  padding: 22px 28px; text-align: center;
+}
+.card-head h3 {
+  font-family: 'Sora', sans-serif; font-weight: 800;
+  font-size: 22px; color: white; letter-spacing: -.3px;
+}
+.card-head p { font-size: 13px; color: rgba(255,255,255,0.7); margin-top: 5px; }
+.card-head-badge {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: rgba(41,171,226,0.15); border: 1px solid rgba(41,171,226,.3);
+  border-radius: 100px; padding: 4px 12px;
+  font-size: 11px; font-weight: 700; color: var(--cyan);
+  letter-spacing: 1px; text-transform: uppercase; margin-bottom: 10px;
+}
+.card-body { padding: 24px 26px 26px; }
+.f-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 12px; }
+.f-group { margin-bottom: 12px; }
+.f-group label {
+  display:block; font-size:11px; font-weight:700; color:#374151;
+  letter-spacing:.6px; text-transform:uppercase; margin-bottom:5px;
+}
+.f-group input, .f-group select, .f-group textarea {
+  width:100%; padding:11px 13px;
+  border: 1.5px solid #E5E7EB; border-radius: 7px;
+  font-family: 'Plus Jakarta Sans', sans-serif; font-size:14px; color:#111827;
+  background: #FAFBFC; outline:none; transition: border .2s;
+}
+.f-group input:focus, .f-group select:focus, .f-group textarea:focus {
+  border-color: var(--cyan); background: white;
+}
+.f-group textarea { resize:none; height:72px; }
+.card-submit {
+  width:100%; padding:15px;
+  background: var(--navy); color:white; border:none; border-radius:8px;
+  font-family:'Sora',sans-serif; font-weight:800; font-size:17px;
+  letter-spacing:.3px; cursor:pointer; transition: all .25s;
+  display:flex; align-items:center; justify-content:center; gap:8px;
+}
+.card-submit:hover { background: var(--cyan); transform: translateY(-2px); }
+.card-note {
+  text-align:center; font-size:11.5px; color:#9CA3AF;
+  margin-top:10px; display:flex; align-items:center; justify-content:center; gap:5px;
+}
+
+/* ── TICKER ─────────────────────────────────── */
+.ticker { background: var(--cyan); padding: 10px 0; overflow:hidden; white-space:nowrap; }
+.t-inner { display:inline-flex; animation: ticker 24s linear infinite; }
+.t-item {
+  display:inline-flex; align-items:center; gap:10px;
+  font-weight:700; font-size:13px; letter-spacing:1px; text-transform:uppercase;
+  color:white; padding:0 36px;
+}
+.t-dot { width:4px; height:4px; background:rgba(255,255,255,.5); border-radius:50%; }
+
+/* ── STATS ROW ───────────────────────────────── */
+.stats-row {
+  background: var(--off-white);
+  border-bottom: 1px solid var(--gray-100);
+  padding: 0 24px;
+}
+.stats-inner {
+  max-width:1200px; margin:0 auto;
+  display: grid; grid-template-columns: repeat(4,1fr);
+}
+.stat-col {
+  padding: 28px 20px; text-align:center;
+  border-right: 1px solid var(--gray-100);
+  transition: background .2s;
+}
+.stat-col:last-child { border-right:none; }
+.stat-col:hover { background: white; }
+.stat-num {
+  font-family:'Sora',sans-serif; font-weight:800; font-size:36px;
+  color: var(--navy); line-height:1; margin-bottom:4px;
+}
+.stat-num span { color: var(--cyan); }
+.stat-lbl { font-size:13px; color: var(--gray-600); font-weight:500; }
+.stat-stars { color: var(--gold); font-size:13px; margin-bottom:6px; }
+
+/* ── SHARED SECTION ──────────────────────────── */
+.sec { padding: 88px 24px; }
+.sec-inner { max-width:1200px; margin:0 auto; }
+.sec-tag {
+  display:inline-flex; align-items:center; gap:8px;
+  font-size:11px; font-weight:800; color: var(--cyan);
+  letter-spacing:2px; text-transform:uppercase; margin-bottom:14px;
+}
+.sec-tag::before { content:''; width:20px; height:2px; background:var(--cyan); }
+.sec-h2 {
+  font-family:'Sora',sans-serif; font-weight:800;
+  font-size: clamp(34px, 4vw, 52px); letter-spacing:-1px; line-height:1.1;
+  color: var(--navy); margin-bottom:14px;
+}
+.sec-h2 span { color: var(--cyan); }
+.sec-sub { font-size:17px; color:var(--gray-600); line-height:1.75; max-width:520px; font-weight:300; }
+
+/* ── SERVICES ─────────────────────────────────── */
+.services-bg { background: var(--white); }
+.srv-grid {
+  display:grid; grid-template-columns: repeat(3,1fr); gap:20px; margin-top:48px;
+}
+.srv-card {
+  border: 1.5px solid var(--gray-100); border-radius:14px;
+  padding: 30px 26px; background: white;
+  transition: all .3s; cursor:default; position:relative; overflow:hidden;
+}
+.srv-card::before {
+  content:''; position:absolute; top:0; left:0; right:0; height:3px;
+  background: linear-gradient(90deg, var(--cyan), var(--navy));
+  transform:scaleX(0); transition: transform .35s; transform-origin:left;
+}
+.srv-card:hover { border-color: var(--cyan); transform: translateY(-5px); box-shadow: 0 16px 40px rgba(41,171,226,.12); }
+.srv-card:hover::before { transform:scaleX(1); }
+.srv-icon { font-size:34px; margin-bottom:14px; display:block; animation: float 5s ease-in-out infinite; }
+.srv-card:nth-child(2) .srv-icon { animation-delay:.5s }
+.srv-card:nth-child(3) .srv-icon { animation-delay:1s }
+.srv-card:nth-child(4) .srv-icon { animation-delay:1.5s }
+.srv-card:nth-child(5) .srv-icon { animation-delay:2s }
+.srv-card:nth-child(6) .srv-icon { animation-delay:2.5s }
+.srv-name { font-family:'Sora',sans-serif; font-weight:700; font-size:17px; color:var(--navy); margin-bottom:8px; }
+.srv-desc { font-size:14px; color:var(--gray-600); line-height:1.65; }
+
+/* ── WHY US ───────────────────────────────────── */
+.why-bg { background: var(--navy-deep); }
+.why-layout { display:grid; grid-template-columns:1fr 1fr; gap:72px; align-items:center; }
+.why-list { display:flex; flex-direction:column; gap:20px; }
+.why-item {
+  display:flex; gap:18px; align-items:flex-start;
+  padding:22px; border-radius:12px;
+  background:rgba(255,255,255,0.04);
+  border:1px solid rgba(255,255,255,.06);
+  transition:all .3s;
+}
+.why-item:hover { background:rgba(41,171,226,.07); border-color:rgba(41,171,226,.22); }
+.why-icon {
+  width:46px; height:46px; min-width:46px; border-radius:10px;
+  background: rgba(41,171,226,0.12); border:1px solid rgba(41,171,226,.25);
+  display:flex; align-items:center; justify-content:center; font-size:20px;
+  transition: background .3s;
+}
+.why-item:hover .why-icon { background: var(--cyan); }
+.why-title { font-family:'Sora',sans-serif; font-weight:700; font-size:16px; color:white; margin-bottom:5px; }
+.why-text { font-size:14px; color:var(--gray-400); line-height:1.65; }
+/* big stat panel */
+.why-panel { display:flex; flex-direction:column; gap:18px; }
+.wp-main {
+  background: linear-gradient(135deg, var(--cyan) 0%, #1E8FC4 100%);
+  border-radius:16px; padding:36px 32px;
+}
+.wp-main-num { font-family:'Sora',sans-serif; font-weight:800; font-size:68px; color:white; line-height:1; }
+.wp-main-lbl { font-size:16px; color:rgba(255,255,255,.82); font-weight:500; margin-top:6px; }
+.wp-row { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+.wp-mini {
+  background: rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.07);
+  border-radius:12px; padding:22px 18px;
+}
+.wp-mini-num { font-family:'Sora',sans-serif; font-weight:800; font-size:36px; color:white; }
+.wp-mini-lbl { font-size:13px; color:var(--gray-400); margin-top:4px; }
+
+/* ── REVIEWS ─────────────────────────────────── */
+.reviews-bg { background: var(--off-white); }
+.rev-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:18px; margin-top:48px; }
+.rev-card {
+  background:white; border:1.5px solid var(--gray-100); border-radius:14px;
+  padding:26px; transition:all .3s;
+}
+.rev-card:hover { transform:translateY(-4px); box-shadow:0 12px 32px rgba(41,171,226,.1); border-color:rgba(41,171,226,.2); }
+.rev-top { display:flex; align-items:center; justify-content:space-between; margin-bottom:14px; }
+.rev-stars { color:var(--gold); font-size:16px; letter-spacing:1.5px; }
+.google-g {
+  width:28px; height:28px; border-radius:50%; background:#F5F5F5;
+  display:flex; align-items:center; justify-content:center;
+  font-size:13px; font-weight:900; color:#4285F4;
+}
+.rev-text { font-size:14px; line-height:1.75; color:#4B5563; margin-bottom:18px; font-style:italic; }
+.rev-author { display:flex; align-items:center; gap:10px; }
+.rev-av {
+  width:38px; height:38px; border-radius:50%;
+  background: linear-gradient(135deg, var(--navy), var(--navy-light));
+  border: 2px solid rgba(41,171,226,.3);
+  display:flex; align-items:center; justify-content:center;
+  font-weight:700; font-size:14px; color:var(--cyan);
+}
+.rev-name { font-weight:700; font-size:14px; color:var(--navy); }
+.rev-loc { font-size:12px; color:var(--gray-600); display:flex; align-items:center; gap:4px; margin-top:2px; }
+.verified { color:var(--green); font-size:11px; }
+
+/* ── PROCESS ─────────────────────────────────── */
+.process-bg { background: white; }
+.steps { display:grid; grid-template-columns:repeat(4,1fr); gap:0; margin-top:56px; position:relative; }
+.steps::before {
+  content:''; position:absolute; top:34px; left:12.5%; right:12.5%;
+  height:2px; background:linear-gradient(90deg, var(--cyan), rgba(41,171,226,.1));
+  z-index:0;
+}
+.step { text-align:center; padding:0 18px; position:relative; z-index:1; }
+.step-ring {
+  width:68px; height:68px; border-radius:50%;
+  border:2.5px solid var(--cyan); background:white;
+  display:flex; align-items:center; justify-content:center;
+  font-family:'Sora',sans-serif; font-weight:800; font-size:24px; color:var(--cyan);
+  margin:0 auto 20px; transition:all .35s;
+}
+.step:hover .step-ring { background:var(--cyan); color:white; }
+.step-t { font-family:'Sora',sans-serif; font-weight:700; font-size:16px; color:var(--navy); margin-bottom:8px; }
+.step-d { font-size:13px; color:var(--gray-600); line-height:1.65; }
+
+/* ── LOCATIONS ───────────────────────────────── */
+.loc-bg { background: var(--navy-deep); }
+.loc-grid { display:grid; grid-template-columns:repeat(5,1fr); gap:14px; margin-top:44px; flex-wrap:wrap; }
+.loc-card {
+  background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.08);
+  border-radius:12px; padding:20px 16px; text-align:center;
+  transition:all .3s; cursor:default;
+}
+.loc-card:hover { background:rgba(41,171,226,.1); border-color:rgba(41,171,226,.3); transform:translateY(-3px); }
+.loc-flag { font-size:28px; margin-bottom:8px; display:block; }
+.loc-name { font-weight:700; font-size:14px; color:white; }
+.loc-cities { font-size:12px; color:var(--gray-400); margin-top:3px; }
+
+/* ── BOTTOM FORM ─────────────────────────────── */
+.form-sec { background: var(--off-white); }
+.form-sec-inner { max-width:680px; margin:0 auto; text-align:center; }
+.big-form {
+  background:white; border:1.5px solid var(--gray-100);
+  border-radius:18px; padding:38px; margin-top:38px; text-align:left;
+  box-shadow: 0 8px 40px rgba(41,171,226,.08);
+}
+.big-form .f-row { grid-template-columns:1fr 1fr; }
+.big-submit {
+  width:100%; padding:16px;
+  background: var(--navy); color:white; border:none; border-radius:9px;
+  font-family:'Sora',sans-serif; font-weight:800; font-size:18px;
+  cursor:pointer; transition:all .25s;
+  display:flex; align-items:center; justify-content:center; gap:8px;
+}
+.big-submit:hover { background:var(--cyan); transform:translateY(-2px); box-shadow:0 10px 30px rgba(41,171,226,.3); }
+
+/* ── FAQ ──────────────────────────────────────── */
+.faq-bg { background: white; }
+.faq-grid { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-top:46px; }
+.faq-item {
+  border:1.5px solid var(--gray-100); border-radius:12px; overflow:hidden;
+  transition:border-color .3s;
+}
+.faq-item:hover { border-color:rgba(41,171,226,.3); }
+.faq-q {
+  display:flex; align-items:center; justify-content:space-between; gap:12px;
+  padding:20px 22px; cursor:pointer; user-select:none;
+}
+.faq-q-txt { font-weight:600; font-size:15px; color:var(--navy); flex:1; line-height:1.4; }
+.faq-ico {
+  width:28px; height:28px; min-width:28px; border-radius:50%;
+  background:rgba(41,171,226,.08); border:1px solid rgba(41,171,226,.2);
+  display:flex; align-items:center; justify-content:center;
+  color:var(--cyan); font-size:18px; font-weight:300; transition:all .3s;
+}
+.faq-item.open .faq-ico { background:var(--cyan); color:white; transform:rotate(45deg); }
+.faq-a { max-height:0; overflow:hidden; transition:max-height .4s ease; }
+.faq-item.open .faq-a { max-height:200px; }
+.faq-a-txt { padding:0 22px 20px; font-size:14px; color:var(--gray-600); line-height:1.75; }
+
+/* ── FINAL CTA ────────────────────────────────── */
+.final-cta {
+  background: linear-gradient(135deg, var(--navy) 0%, #0B1F3A 50%, var(--navy-deep) 100%);
+  padding:80px 24px; text-align:center; position:relative; overflow:hidden;
+}
+.final-cta::before {
+  content:''; position:absolute; inset:0; pointer-events:none;
+  background: radial-gradient(ellipse 80% 60% at 50% 50%, rgba(41,171,226,.1) 0%, transparent 65%);
+}
+.final-cta-inner { position:relative; z-index:1; max-width:640px; margin:0 auto; }
+.final-cta h2 {
+  font-family:'Sora',sans-serif; font-weight:800;
+  font-size:clamp(38px,5vw,60px); letter-spacing:-1px; line-height:1.1;
+  color:white; margin-bottom:14px;
+}
+.final-cta h2 span { color:var(--cyan); }
+.final-cta p { font-size:17px; color:rgba(255,255,255,.65); margin-bottom:36px; font-weight:300; }
+.final-btns { display:flex; gap:14px; justify-content:center; flex-wrap:wrap; }
+.btn-cyan-lg {
+  display:inline-flex; align-items:center; gap:10px;
+  background:var(--cyan); color:white; padding:16px 34px;
+  border-radius:9px; font-weight:700; font-size:17px; text-decoration:none;
+  transition:all .25s;
+}
+.btn-cyan-lg:hover { background:var(--cyan-light); transform:translateY(-2px); box-shadow:0 14px 34px rgba(41,171,226,.35); }
+.btn-outline-lg {
+  display:inline-flex; align-items:center; gap:10px;
+  background:transparent; color:white; padding:16px 32px;
+  border-radius:9px; font-weight:600; font-size:17px; text-decoration:none;
+  border:1.5px solid rgba(255,255,255,.25); transition:all .25s;
+}
+.btn-outline-lg:hover { border-color:var(--cyan); color:var(--cyan); transform:translateY(-2px); }
+
+/* ── FOOTER ───────────────────────────────────── */
+footer {
+  background: #050E1A;
+  border-top:1px solid rgba(255,255,255,.05);
+  padding:36px 24px;
+}
+.foot-inner {
+  max-width:1200px; margin:0 auto;
+  display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:18px;
+}
+.foot-logo img { height:30px; width:auto; opacity:.85; mix-blend-mode: screen; }
+.foot-badges { display:flex; gap:9px; flex-wrap:wrap; }
+.foot-badge {
+  background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.08);
+  border-radius:6px; padding:5px 11px; font-size:11px; font-weight:700;
+  color:var(--gray-400); letter-spacing:.5px;
+}
+.foot-links { display:flex; gap:20px; }
+.foot-links a { font-size:13px; color:var(--gray-600); text-decoration:none; transition:color .2s; }
+.foot-links a:hover { color:var(--cyan); }
+.foot-copy { font-size:12px; color:#223344; }
+
+/* ── MOBILE STICKY ───────────────────────────── */
+.mob-bar {
+  display:none; position:fixed; bottom:0; left:0; right:0; z-index:300;
+  background:var(--navy-deep); border-top:2px solid var(--cyan); padding:10px 14px; gap:10px;
+}
+.mob-bar a {
+  flex:1; display:flex; align-items:center; justify-content:center; gap:7px;
+  padding:13px; border-radius:8px; font-weight:700; font-size:15px; text-decoration:none; transition:all .2s;
+}
+.mob-call { background:var(--cyan); color:white; }
+.mob-call:hover { background:var(--cyan-light); }
+.mob-est { background:rgba(255,255,255,.06); color:white; border:1px solid rgba(255,255,255,.12); }
+.mob-est:hover { background:rgba(255,255,255,.1); }
+
+/* ── SUCCESS ─────────────────────────────────── */
+.success-msg {
+  display:none; text-align:center; padding:40px 28px; background:white;
+}
+.s-icon { font-size:52px; margin-bottom:14px; }
+.s-title {
+  font-family:'Sora',sans-serif; font-weight:800; font-size:28px; color:var(--navy); margin-bottom:8px;
+}
+.s-sub { font-size:15px; color:var(--gray-600); }
+
+/* ── RESPONSIVE ──────────────────────────────── */
+@media(max-width:1024px) {
+  .hero-inner { grid-template-columns:1fr; gap:36px; }
+  .hero-card { max-width:520px; }
+  .why-layout { grid-template-columns:1fr; gap:44px; }
+  .why-panel { display:none; }
+  .srv-grid { grid-template-columns:repeat(2,1fr); }
+  .stats-inner { grid-template-columns:repeat(2,1fr); }
+  .rev-grid { grid-template-columns:1fr; max-width:520px; }
+  .steps { grid-template-columns:repeat(2,1fr); gap:36px; }
+  .steps::before { display:none; }
+  .loc-grid { grid-template-columns:repeat(3,1fr); }
+}
+@media(max-width:768px) {
+  .hdr-rating { display:none; }
+  .hdr-phone { padding:8px 14px; font-size:14px; }
+  .hero-chips { display:none; }
+  .hero-ctas .btn-ghost { display:none; }
+  .srv-grid { grid-template-columns:1fr; }
+  .faq-grid { grid-template-columns:1fr; }
+  .big-form .f-row { grid-template-columns:1fr; }
+  .f-row { grid-template-columns:1fr; }
+  .mob-bar { display:flex; }
+  footer { padding-bottom:90px; }
+  .sec { padding:60px 16px; }
+  .loc-grid { grid-template-columns:repeat(2,1fr); }
+  .final-btns .btn-outline-lg { display:none; }
+  .foot-inner { flex-direction:column; align-items:flex-start; gap:14px; }
+}
+@media(max-width:480px) {
+  .hero-card { border-radius:0; }
+  .stats-inner { grid-template-columns:repeat(2,1fr); }
+  .stat-num { font-size:28px; }
+  .rev-grid { max-width:100%; }
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="hdr">
+  <a href="https://ventlyair.com" class="hdr-logo">
+    <img src="data:image/png;base64,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" alt="Vently Air">
+    <span class="hdr-logo-tag">HVAC & Air Quality</span>
+  </a>
+  <div class="hdr-right">
+    <div class="hdr-rating">
+      <span class="hdr-stars">★★★★★</span>
+      <span>4.9 · 20,000+ Clients</span>
+    </div>
+    <a href="tel:+17818190399" class="hdr-phone">
+      <svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg>
+      1-781-819-0399
+    </a>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-mesh"></div>
+  <div class="hero-grid"></div>
+  <div class="hero-orb"></div>
+  <div class="hero-inner">
+
+    <div class="hero-left">
+      <div class="hero-badge">
+        <div class="live-dot"></div>
+        Available Today · MA · CT · NC · TX · DC
+      </div>
+      <h1 class="hero-h1">
+        The <span class="accent">HVAC Company</span><br>
+        <span class="ghost">Near You.</span><br>
+        Clean Air. Done Right.
+      </h1>
+      <p class="hero-sub">
+        Vently Air is the <strong>trusted HVAC & air quality company</strong> serving homes across 5+ states. Duct cleaning, furnace service, AC, dryer vents, and more — backed by <strong>20,000+ happy customers</strong>.
+      </p>
+      <div class="hero-chips">
+        <div class="chip">⚡ Same-Day Available</div>
+        <div class="chip">🏆 Licensed & Insured</div>
+        <div class="chip">💰 Free Estimates</div>
+        <div class="chip">✅ Price Match Guarantee</div>
+      </div>
+      <div class="hero-ctas">
+        <a href="tel:+17818190399" class="btn-cyan">
+          📞 Call 1-781-819-0399
+        </a>
+        <a href="#get-estimate" class="btn-ghost">
+          Free Estimate ↓
+        </a>
+      </div>
+    </div>
+
+    <!-- FORM CARD -->
+    <div class="hero-card" id="hero-card">
+      <div class="card-head">
+        <div class="card-head-badge">⚡ Response Within 1 Hour</div>
+        <h3>Get Your Free Estimate</h3>
+        <p>A local Vently Air rep will call you within the hour</p>
+      </div>
+      <div class="card-body" id="hero-form-body">
+        <div class="f-row">
+          <div class="f-group">
+            <label>First Name</label>
+            <input type="text" placeholder="John">
+          </div>
+          <div class="f-group">
+            <label>Last Name</label>
+            <input type="text" placeholder="Smith">
+          </div>
+        </div>
+        <div class="f-group">
+          <label>Phone Number</label>
+          <input type="tel" placeholder="(555) 000-0000">
+        </div>
+        <div class="f-group">
+          <label>Zip Code / Address</label>
+          <input type="text" placeholder="e.g. 02134 or your city">
+        </div>
+        <div class="f-group">
+          <label>Service Needed</label>
+          <select>
+            <option value="">Select a service…</option>
+            <option>Air Duct Cleaning</option>
+            <option>Dryer Vent Service</option>
+            <option>Furnace / Coil / Blower Fan</option>
+            <option>Chimney Cleaning</option>
+            <option>Sanitation</option>
+            <option>UV Light Installation</option>
+            <option>Air Quality Test</option>
+            <option>HVAC Repair / Install</option>
+            <option>Not Sure — Need Advice</option>
+          </select>
+        </div>
+        <div class="f-group">
+          <label>Brief Description <span style="font-weight:400;color:#9CA3AF">(optional)</span></label>
+          <textarea placeholder="e.g. Haven't cleaned ducts in 5 years, have allergies…"></textarea>
+        </div>
+        <button class="card-submit" onclick="submitForm('hero')">
+          🚀 GET MY FREE ESTIMATE
+        </button>
+        <p class="card-note">🔒 No spam. No obligation. 100% free.</p>
+      </div>
+      <div class="success-msg" id="hero-success">
+        <div class="s-icon">✅</div>
+        <div class="s-title">You're All Set!</div>
+        <p class="s-sub">A local Vently Air rep will call you within the hour. Keep your phone nearby!</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- TICKER -->
+<div class="ticker">
+  <div class="t-inner">
+    <div class="t-item">⚡ Same-Day Service Available<div class="t-dot"></div></div>
+    <div class="t-item">🏆 Licensed & Fully Insured<div class="t-dot"></div></div>
+    <div class="t-item">💲 Free Estimates · No Obligation<div class="t-dot"></div></div>
+    <div class="t-item">✅ Price Match Guarantee<div class="t-dot"></div></div>
+    <div class="t-item">⭐ 20,000+ Happy Clients<div class="t-dot"></div></div>
+    <div class="t-item">🌬️ Complete Home Air Quality<div class="t-dot"></div></div>
+    <div class="t-item">📍 MA · CT · NC · TX · DC<div class="t-dot"></div></div>
+    <div class="t-item">⚡ Same-Day Service Available<div class="t-dot"></div></div>
+    <div class="t-item">🏆 Licensed & Fully Insured<div class="t-dot"></div></div>
+    <div class="t-item">💲 Free Estimates · No Obligation<div class="t-dot"></div></div>
+    <div class="t-item">✅ Price Match Guarantee<div class="t-dot"></div></div>
+    <div class="t-item">⭐ 20,000+ Happy Clients<div class="t-dot"></div></div>
+    <div class="t-item">🌬️ Complete Home Air Quality<div class="t-dot"></div></div>
+    <div class="t-item">📍 MA · CT · NC · TX · DC<div class="t-dot"></div></div>
+  </div>
+</div>
+
+<!-- STATS ROW -->
+<div class="stats-row">
+  <div class="stats-inner">
+    <div class="stat-col">
+      <div class="stat-stars">★★★★★</div>
+      <div class="stat-num">4.9<span>/5</span></div>
+      <div class="stat-lbl">Average Rating</div>
+    </div>
+    <div class="stat-col">
+      <div class="stat-num">20,000<span>+</span></div>
+      <div class="stat-lbl">Happy Clients</div>
+    </div>
+    <div class="stat-col">
+      <div class="stat-num">10<span>+</span></div>
+      <div class="stat-lbl">Years Experience</div>
+    </div>
+    <div class="stat-col">
+      <div class="stat-num">5<span>+</span></div>
+      <div class="stat-lbl">States Served</div>
+    </div>
+  </div>
+</div>
+
+<!-- SERVICES -->
+<section class="sec services-bg">
+  <div class="sec-inner">
+    <div class="sec-tag">Our Services</div>
+    <h2 class="sec-h2">Complete Home Air Quality,<br><span>One Trusted Company</span></h2>
+    <p class="sec-sub">Vently Air handles every aspect of your home's air system — from ducts to dryer vents to furnace inspections. All in one visit, all backed by our quality guarantee.</p>
+    <div class="srv-grid">
+      <div class="srv-card">
+        <span class="srv-icon">🌀</span>
+        <div class="srv-name">Air Duct Cleaning</div>
+        <p class="srv-desc">Professional deep cleaning of your entire duct system to remove dust, mold, and allergens — improving airflow and air quality throughout your home.</p>
+      </div>
+      <div class="srv-card">
+        <span class="srv-icon">🔥</span>
+        <div class="srv-name">Furnace, Coil & Blower Fan</div>
+        <p class="srv-desc">Thorough inspection and cleaning of your furnace components, evaporator coil, and blower fan assembly to restore efficiency and prevent breakdowns.</p>
+      </div>
+      <div class="srv-card">
+        <span class="srv-icon">👕</span>
+        <div class="srv-name">Dryer Vent Service</div>
+        <p class="srv-desc">Clogged dryer vents are a leading cause of house fires. We clear and inspect your dryer vent line to keep your home safe and your dryer running efficiently.</p>
+      </div>
+      <div class="srv-card">
+        <span class="srv-icon">🏠</span>
+        <div class="srv-name">Chimney Cleaning</div>
+        <p class="srv-desc">Professional chimney sweeping and inspection to remove creosote buildup, blockages, and debris — ensuring safe operation all season long.</p>
+      </div>
+      <div class="srv-card">
+        <span class="srv-icon">🧪</span>
+        <div class="srv-name">Air Quality Test</div>
+        <p class="srv-desc">Comprehensive indoor air quality testing to identify pollutants, allergens, mold spores, and contaminants affecting the health of your household.</p>
+      </div>
+      <div class="srv-card">
+        <span class="srv-icon">💡</span>
+        <div class="srv-name">UV Light Installation & Sanitation</div>
+        <p class="srv-desc">UV light systems installed in your HVAC system kill bacteria, mold, and viruses at the source. Combined with full sanitation service for total air protection.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- WHY US -->
+<section class="sec why-bg">
+  <div class="sec-inner">
+    <div style="margin-bottom:50px">
+      <div class="sec-tag" style="color:var(--cyan)">Why Vently Air</div>
+      <h2 class="sec-h2" style="color:white">Why 20,000+ Homeowners<br><span>Trust Vently Air</span></h2>
+    </div>
+    <div class="why-layout">
+      <div class="why-list">
+        <div class="why-item">
+          <div class="why-icon">⏱️</div>
+          <div>
+            <div class="why-title">Responses Within 1 Hour</div>
+            <p class="why-text">Submit a request and a local Vently Air rep calls you back within the hour to discuss your needs and get you scheduled — no waiting days for a callback.</p>
+          </div>
+        </div>
+        <div class="why-item">
+          <div class="why-icon">💲</div>
+          <div>
+            <div class="why-title">Price Match Guarantee</div>
+            <p class="why-text">We'll match any competitor's written quote. Period. You get the best rate in your area — no negotiating, no gimmicks, no surprise fees at the end.</p>
+          </div>
+        </div>
+        <div class="why-item">
+          <div class="why-icon">🏆</div>
+          <div>
+            <div class="why-title">Quality Guarantee — Or You Don't Pay</div>
+            <p class="why-text">Our work is backed by a full quality guarantee. If you're not completely satisfied with the service, we come back and make it right — or your money back.</p>
+          </div>
+        </div>
+        <div class="why-item">
+          <div class="why-icon">🔒</div>
+          <div>
+            <div class="why-title">Licensed, Insured & Transparent</div>
+            <p class="why-text">Every Vently Air technician is licensed, background-checked, and fully insured. We explain every step of the process and leave your home cleaner than we found it.</p>
+          </div>
+        </div>
+      </div>
+      <div class="why-panel">
+        <div class="wp-main">
+          <div class="wp-main-num">98%</div>
+          <div class="wp-main-lbl">Customer satisfaction rate across all service visits</div>
+        </div>
+        <div class="wp-row">
+          <div class="wp-mini">
+            <div class="wp-mini-num">1hr</div>
+            <div class="wp-mini-lbl">Average callback time</div>
+          </div>
+          <div class="wp-mini">
+            <div class="wp-mini-num">50K+</div>
+            <div class="wp-mini-lbl">Projects completed</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="sec reviews-bg">
+  <div class="sec-inner">
+    <div class="sec-tag">Customer Reviews</div>
+    <h2 class="sec-h2">Real Words from Real<br><span>Vently Air Customers</span></h2>
+    <div class="rev-grid">
+      <div class="rev-card">
+        <div class="rev-top">
+          <div class="rev-stars">★★★★★</div>
+          <div class="google-g">G</div>
+        </div>
+        <p class="rev-text">"If you have problems with allergies like I do this time of year, getting your air ducts cleaned should help! Vently Air does an amazing job and explains everything in detail at a reasonable price. Would highly recommend to anyone!"</p>
+        <div class="rev-author">
+          <div class="rev-av">C</div>
+          <div>
+            <div class="rev-name">Cassandra A.</div>
+            <div class="rev-loc"><span class="verified">✓</span> Verified · Boston, MA</div>
+          </div>
+        </div>
+      </div>
+      <div class="rev-card">
+        <div class="rev-top">
+          <div class="rev-stars">★★★★★</div>
+          <div class="google-g">G</div>
+        </div>
+        <p class="rev-text">"Mike came for a dryer vent cleaning and while here, cleaned the whole duct system on the spot. He answered all our questions and gave us great tips. We will definitely continue to use this company in the future!"</p>
+        <div class="rev-author">
+          <div class="rev-av">J</div>
+          <div>
+            <div class="rev-name">Joe D.</div>
+            <div class="rev-loc"><span class="verified">✓</span> Verified Customer</div>
+          </div>
+        </div>
+      </div>
+      <div class="rev-card">
+        <div class="rev-top">
+          <div class="rev-stars">★★★★★</div>
+          <div class="google-g">G</div>
+        </div>
+        <p class="rev-text">"Business was responsive on the first call. Mike arrived on time for dryer vent cleaning, was professional, explained everything in detail, and left the work area spotless. Very happy with this service — highly recommend."</p>
+        <div class="rev-author">
+          <div class="rev-av">C</div>
+          <div>
+            <div class="rev-name">Casey V.</div>
+            <div class="rev-loc"><span class="verified">✓</span> Verified Customer</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section class="sec process-bg">
+  <div class="sec-inner">
+    <div style="text-align:center">
+      <div class="sec-tag" style="justify-content:center">How It Works</div>
+      <h2 class="sec-h2" style="text-align:center">Clean Air in <span>4 Simple Steps</span></h2>
+    </div>
+    <div class="steps">
+      <div class="step">
+        <div class="step-ring">1</div>
+        <div class="step-t">Call or Request Online</div>
+        <p class="step-d">Call us directly at 1-781-819-0399 or fill out the free estimate form. We respond within 1 hour.</p>
+      </div>
+      <div class="step">
+        <div class="step-ring">2</div>
+        <div class="step-t">Get Your Free Estimate</div>
+        <p class="step-d">A local rep calls you, understands your needs, and gives you a clear upfront price. No surprises.</p>
+      </div>
+      <div class="step">
+        <div class="step-ring">3</div>
+        <div class="step-t">We Come to You</div>
+        <p class="step-d">Our licensed, background-checked tech arrives on time with full equipment. Most jobs done in one visit.</p>
+      </div>
+      <div class="step">
+        <div class="step-ring">4</div>
+        <div class="step-t">Breathe Cleaner Air</div>
+        <p class="step-d">Enjoy fresher, healthier air in your home — backed by our full quality guarantee and your satisfaction.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- LOCATIONS -->
+<section class="sec loc-bg">
+  <div class="sec-inner">
+    <div class="sec-tag" style="color:var(--cyan)">Service Areas</div>
+    <h2 class="sec-h2" style="color:white">Find Your Local<br><span>Vently Air Team</span></h2>
+    <p class="sec-sub" style="color:var(--gray-400)">We operate nationally across 5+ states. Local reps, local knowledge — with the quality and consistency of a trusted national brand.</p>
+    <div class="loc-grid">
+      <div class="loc-card">
+        <span class="loc-flag">🏙️</span>
+        <div class="loc-name">Massachusetts</div>
+        <div class="loc-cities">Boston · Brookline · More</div>
+      </div>
+      <div class="loc-card">
+        <span class="loc-flag">🌲</span>
+        <div class="loc-name">Connecticut</div>
+        <div class="loc-cities">Hartford · Waterbury · More</div>
+      </div>
+      <div class="loc-card">
+        <span class="loc-flag">🏛️</span>
+        <div class="loc-name">Washington DC</div>
+        <div class="loc-cities">DC · Virginia · Maryland</div>
+      </div>
+      <div class="loc-card">
+        <span class="loc-flag">🌿</span>
+        <div class="loc-name">North Carolina</div>
+        <div class="loc-cities">Charlotte · Raleigh · More</div>
+      </div>
+      <div class="loc-card">
+        <span class="loc-flag">⭐</span>
+        <div class="loc-name">Texas</div>
+        <div class="loc-cities">Dallas · Houston · More</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BOTTOM FORM -->
+<section class="sec form-sec" id="get-estimate">
+  <div class="form-sec-inner">
+    <div class="sec-tag" style="justify-content:center">Free Estimate</div>
+    <h2 class="sec-h2" style="text-align:center">Get Your Free<br><span>Vently Air Estimate</span></h2>
+    <p class="sec-sub" style="margin:14px auto 0;text-align:center">No commitment. No pressure. A local rep will call you within 1 hour to discuss your home's air quality needs.</p>
+    <div class="big-form" id="bottom-form-body">
+      <div class="f-row">
+        <div class="f-group"><label>First Name</label><input type="text" placeholder="John"></div>
+        <div class="f-group"><label>Last Name</label><input type="text" placeholder="Smith"></div>
+      </div>
+      <div class="f-row">
+        <div class="f-group"><label>Phone Number</label><input type="tel" placeholder="(555) 000-0000"></div>
+        <div class="f-group"><label>Email Address</label><input type="email" placeholder="john@example.com"></div>
+      </div>
+      <div class="f-row">
+        <div class="f-group"><label>Zip Code</label><input type="text" placeholder="e.g. 02134"></div>
+        <div class="f-group">
+          <label>Service Needed</label>
+          <select>
+            <option value="">Select a service…</option>
+            <option>Air Duct Cleaning</option>
+            <option>Dryer Vent Service</option>
+            <option>Furnace / Coil / Blower Fan</option>
+            <option>Chimney Cleaning</option>
+            <option>Sanitation</option>
+            <option>UV Light Installation</option>
+            <option>Air Quality Test</option>
+            <option>HVAC Repair / Install</option>
+            <option>Not Sure — Need Advice</option>
+          </select>
+        </div>
+      </div>
+      <div class="f-group">
+        <label>Tell Us What's Going On <span style="font-weight:400;color:#9CA3AF">(optional)</span></label>
+        <textarea placeholder="e.g. Haven't had ducts cleaned in years, family has allergies, noticed dust buildup…"></textarea>
+      </div>
+      <button class="big-submit" onclick="submitForm('bottom')">
+        🚀 SEND MY FREE ESTIMATE REQUEST
+      </button>
+      <p class="card-note" style="color:var(--gray-600);margin-top:12px">🔒 No spam. No obligation. Response within 1 hour. By submitting you agree to receive communication from Vently Air regarding your request.</p>
+    </div>
+    <div class="success-msg" id="bottom-success" style="background:white;border-radius:18px;border:1.5px solid var(--gray-100)">
+      <div class="s-icon">✅</div>
+      <div class="s-title">Request Received!</div>
+      <p class="s-sub">A Vently Air rep will call you within 1 hour. Check your phone!</p>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="sec faq-bg">
+  <div class="sec-inner">
+    <div class="sec-tag">FAQ</div>
+    <h2 class="sec-h2">Your Questions,<br><span>Answered Honestly</span></h2>
+    <div class="faq-grid">
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span class="faq-q-txt">How often should I get my air ducts cleaned?</span>
+          <div class="faq-ico">+</div>
+        </div>
+        <div class="faq-a"><p class="faq-a-txt">The EPA and NADCA recommend having your air ducts inspected and cleaned every 3–5 years. However, if you have pets, allergies, recently renovated your home, or notice increased dust, you should schedule a cleaning sooner. Many homeowners notice a significant improvement in air quality after their first professional cleaning.</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span class="faq-q-txt">Is the estimate really free — no hidden fees?</span>
+          <div class="faq-ico">+</div>
+        </div>
+        <div class="faq-a"><p class="faq-a-txt">Absolutely free, with zero obligation to proceed. We assess your home's needs and provide a clear, itemized quote before any work begins. We also offer our Price Match Guarantee — if you find a lower written quote from a competitor, we'll match it.</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span class="faq-q-txt">Can I get a contactless Zoom quote?</span>
+          <div class="faq-ico">+</div>
+        </div>
+        <div class="faq-a"><p class="faq-a-txt">Yes! We offer a fully contactless virtual inspection via Zoom. One of our air quality experts will guide you through a video walk-through of your home's systems and provide an accurate quote — all without anyone entering your home. Perfect for busy schedules or those who prefer a no-contact option.</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span class="faq-q-txt">Why is dryer vent cleaning important?</span>
+          <div class="faq-ico">+</div>
+        </div>
+        <div class="faq-a"><p class="faq-a-txt">Clogged dryer vents are the leading cause of residential fires in the US — the US Fire Administration reports nearly 3,000 dryer fires per year. Beyond fire risk, a clogged vent makes your dryer work harder, increasing energy bills and shortening the machine's lifespan. Annual cleaning is strongly recommended.</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span class="faq-q-txt">Are your technicians licensed and background-checked?</span>
+          <div class="faq-ico">+</div>
+        </div>
+        <div class="faq-a"><p class="faq-a-txt">Yes. Every Vently Air technician is fully licensed in their state, comprehensively insured, and has passed a thorough background check. We take the trust you place in us seriously — you'll always know who's coming to your home before they arrive.</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span class="faq-q-txt">What states do you currently serve?</span>
+          <div class="faq-ico">+</div>
+        </div>
+        <div class="faq-a"><p class="faq-a-txt">Vently Air currently serves customers in Massachusetts, Connecticut, Washington DC (including Virginia and Maryland), North Carolina, Texas, and Florida. We're growing quickly — if you don't see your area listed, call us at 1-781-819-0399 and we'll do our best to connect you with a local provider.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<div class="final-cta">
+  <div class="final-cta-inner">
+    <h2>Ready to Breathe<br><span>Cleaner Air Today?</span></h2>
+    <p>Call now or request your free estimate online. A local Vently Air expert will respond within 1 hour.</p>
+    <div class="final-btns">
+      <a href="tel:+17818190399" class="btn-cyan-lg">📞 Call 1-781-819-0399</a>
+      <a href="#get-estimate" class="btn-outline-lg">Get Free Estimate →</a>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="foot-inner">
+    <a href="https://ventlyair.com" class="foot-logo">
+      <img src="data:image/png;base64,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" alt="Vently Air">
+    </a>
+    <div class="foot-badges">
+      <div class="foot-badge">Licensed & Insured</div>
+      <div class="foot-badge">Price Match Guarantee</div>
+      <div class="foot-badge">Quality Guarantee</div>
+    </div>
+    <div class="foot-links">
+      <a href="https://ventlyair.com/privacy-policy">Privacy</a>
+      <a href="https://ventlyair.com/terms-of-use">Terms</a>
+      <a href="https://ventlyair.com/contact">Contact</a>
+    </div>
+    <div class="foot-copy">© 2025 Vently Air. All rights reserved.</div>
+  </div>
+</footer>
+
+<!-- MOBILE STICKY BAR -->
+<div class="mob-bar">
+  <a href="tel:+17818190399" class="mob-call">📞 Call Now</a>
+  <a href="#get-estimate" class="mob-est">Free Estimate</a>
+</div>
+
+<script>
+function toggleFaq(el) {
+  const item = el.closest('.faq-item');
+  const isOpen = item.classList.contains('open');
+  document.querySelectorAll('.faq-item.open').forEach(i => i.classList.remove('open'));
+  if (!isOpen) item.classList.add('open');
+}
+
+function submitForm(which) {
+  const bodyId = which === 'hero' ? 'hero-form-body' : 'bottom-form-body';
+  const successId = which === 'hero' ? 'hero-success' : 'bottom-success';
+  document.getElementById(bodyId).style.display = 'none';
+  const s = document.getElementById(successId);
+  s.style.display = 'block';
+  s.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+// Scroll reveal
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      e.target.style.opacity = '1';
+      e.target.style.transform = 'translateY(0)';
+    }
+  });
+}, { threshold: 0.08 });
+
+document.querySelectorAll('.srv-card, .why-item, .rev-card, .step, .stat-col, .faq-item, .loc-card').forEach((el, i) => {
+  el.style.opacity = '0';
+  el.style.transform = 'translateY(22px)';
+  el.style.transition = `opacity .5s ${i * 0.07}s ease, transform .5s ${i * 0.07}s ease`;
+  observer.observe(el);
+});
+
+// Smooth scroll for anchor links
+document.querySelectorAll('a[href="#get-estimate"]').forEach(a => {
+  a.addEventListener('click', e => {
+    e.preventDefault();
+    document.getElementById('get-estimate').scrollIntoView({ behavior: 'smooth' });
+  });
+});
+</script>
+
+</body>
+</html>
